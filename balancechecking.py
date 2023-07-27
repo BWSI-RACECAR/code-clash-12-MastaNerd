@@ -31,7 +31,7 @@ class Solution:
             #type parenthesis: string
             #return type: boolean
             queue = []
-            parCounter = 0
+            paraCounter = 0
             bracCounter = 0
             curlyCounter = 0
 
